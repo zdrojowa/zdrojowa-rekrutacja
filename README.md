@@ -7,7 +7,7 @@
 5. Wykonaj zadania z dołączonego pliku
 
 
-##Dane logowania użytkownika:
+## Dane logowania użytkownika:
     
     Email: test@zdrojowainvest.pl
     Hasło: 123456
